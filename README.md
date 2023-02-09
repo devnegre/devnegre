@@ -1,12 +1,17 @@
 
 ### Prazer, eu me chamo Victor Négre ✌️
 
+- Trabalho como Suporte(Help Desk) na empresa Gz Sistemas. Tenho como função, realizar atendimento a clientes.
+- Cursando ciências da computação na faculdade Unianchieta.<br/>
+
+### Redes Sociais 📱:  
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negre_victor)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-ara%C3%BAjo-n%C3%A9gre-6111b9234/)
 
 ![Négre GitHub stats](https://github-readme-stats.vercel.app/api?username=Negre2304&show_icons=true&theme=tokyonight)
 
-## Aprimorando minhas skills 👨‍💻:
+### Aprimorando minhas skills em 👨‍💻:
 
 <div style="display: inline_block"><br/>
 	<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
