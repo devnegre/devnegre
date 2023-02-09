@@ -1,7 +1,7 @@
 
 ### Prazer, eu me chamo Victor Négre ✌️
 
-##### 🏢 Trabalho como Suporte(Help Desk) na empresa Gz Sistemas. Tenho como função, realizar atendimento a clientes.<br/>
+##### 🏢 Trabalho como Suporte(Help Desk) na empresa Gz Sistemas.<br/>
 ##### 🎓 Cursando ciências da computação na faculdade Unianchieta.<br/>
 ##### 🧠 "Tente mover o mundo, o primeiro passo será mover a si mesmo."
 
