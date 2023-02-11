@@ -8,7 +8,7 @@
 ### Redes Sociais 📱:  
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/negre_victor)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-ara%C3%BAjo-n%C3%A9gre-6111b9234/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/victor-de-ara%C3%BAjo-n%C3%A9gre-6111b9234/)
 
 ![Négre GitHub stats](https://github-readme-stats.vercel.app/api?username=devnegre&show_icons=true&theme=tokyonight)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnegre&theme=tokyonight)
