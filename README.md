@@ -11,6 +11,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-de-ara%C3%BAjo-n%C3%A9gre-6111b9234/)
 
 ![Négre GitHub stats](https://github-readme-stats.vercel.app/api?username=devnegre&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnegre&layout=compact)](https://github.com/denegre/github-readme-stats)
 
 ### Aprimorando minhas skills em 👨‍💻:
 
