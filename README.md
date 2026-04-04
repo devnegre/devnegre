@@ -1,7 +1,7 @@
 
 ### Prazer, eu me chamo Victor Négre ✌️
 
-##### 🏢 Trabalho como Ponto Focal Scanntech na empresa Gz Sistemas.<br/>
+##### 🏢 Trabalho na empresa GZ Sistemas, uma software house voltada para automação comercial focada em soluções supermercadistas.<br/>
 ##### 🎓 Cursando ciências da computação na faculdade Unianchieta.<br/>
 ##### 🧠 "Tente mover o mundo, o primeiro passo será mover a si mesmo."
 
