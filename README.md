@@ -28,8 +28,7 @@ Formado em Ciências da Computação pela Faculdade Unianchieta.
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td width="20%" align="center" style="border: none;">
-      <!-- Substitua o link abaixo pela URL da sua logo -->
-      <img src=logo_custom.png alt="Logo Varejo IA" width="120px" style="border-radius: 8px;">
+      <img src=logo_custom.png alt="Logo Varejo IA" width="220px" style="border-radius: 8px;">
     </td>
     <td width="80%" style="border: none;">
       <h4>Varejo IA — <em>VeroHub</em></h4>
